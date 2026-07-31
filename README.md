@@ -1,0 +1,1 @@
+This is a classic Snake game built using HTML, CSS, and JavaScript. The game features a simple and clean dark theme, responsive design for various screen sizes, and an interactive gameplay experience.
