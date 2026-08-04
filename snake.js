@@ -37,8 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
 
-        snake.unshift(newHead); // Add new head to the snake
-
+        snake.unshift(newHead);
         // Check if the snake eats the food
         if (newHead.x === food.x && newHead.y === food.y) {
             score += 10;
